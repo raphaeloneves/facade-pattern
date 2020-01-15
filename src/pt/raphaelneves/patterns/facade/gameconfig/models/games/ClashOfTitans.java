@@ -1,4 +1,4 @@
-package pt.raphaelneves.patterns.facade.gameconfig.models;
+package pt.raphaelneves.patterns.facade.gameconfig.models.games;
 
 import pt.raphaelneves.patterns.facade.gameconfig.models.settings.ISettings;
 

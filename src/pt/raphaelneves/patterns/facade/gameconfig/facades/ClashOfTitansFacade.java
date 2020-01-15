@@ -1,7 +1,7 @@
 package pt.raphaelneves.patterns.facade.gameconfig.facades;
 
-import pt.raphaelneves.patterns.facade.gameconfig.models.ClashOfTitans;
-import pt.raphaelneves.patterns.facade.gameconfig.models.IGame;
+import pt.raphaelneves.patterns.facade.gameconfig.models.games.ClashOfTitans;
+import pt.raphaelneves.patterns.facade.gameconfig.models.games.IGame;
 import pt.raphaelneves.patterns.facade.gameconfig.models.settings.*;
 
 import java.util.Arrays;

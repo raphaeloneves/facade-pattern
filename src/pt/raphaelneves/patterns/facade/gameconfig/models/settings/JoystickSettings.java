@@ -1,9 +1,9 @@
-package pt.raphaelneves.patterns.facade.gameconfig.model.settings;
+package pt.raphaelneves.patterns.facade.gameconfig.models.settings;
 
-public class KeyboardSettings implements ISettings{
+public class JoystickSettings implements ISettings {
     private String someSetting;
 
-    public KeyboardSettings(String someSetting) {
+    public JoystickSettings(String someSetting) {
         this.someSetting = someSetting;
     }
 
@@ -13,7 +13,7 @@ public class KeyboardSettings implements ISettings{
 
     @Override
     public void expose() {
-        System.out.println("Keyboard Settings:");
+        System.out.println("Joystick Settings:");
         System.out.println(String.format("Some Setting: %s", getSomeSetting()));
     }
 }

@@ -1,7 +1,8 @@
 package pt.raphaelneves.patterns.facade.gameconfig.facades;
 
-import pt.raphaelneves.patterns.facade.gameconfig.model.CandyCrush;
-import pt.raphaelneves.patterns.facade.gameconfig.model.settings.*;
+import pt.raphaelneves.patterns.facade.gameconfig.models.CandyCrush;
+import pt.raphaelneves.patterns.facade.gameconfig.models.IGame;
+import pt.raphaelneves.patterns.facade.gameconfig.models.settings.*;
 
 import java.util.Arrays;
 

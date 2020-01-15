@@ -1,7 +1,6 @@
-package pt.raphaelneves.patterns.facade.gameconfig.model;
+package pt.raphaelneves.patterns.facade.gameconfig.models;
 
-import pt.raphaelneves.patterns.facade.gameconfig.model.settings.IGame;
-import pt.raphaelneves.patterns.facade.gameconfig.model.settings.ISettings;
+import pt.raphaelneves.patterns.facade.gameconfig.models.settings.ISettings;
 
 import java.util.List;
 

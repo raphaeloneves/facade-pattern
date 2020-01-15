@@ -1,4 +1,4 @@
-package pt.raphaelneves.patterns.facade.gameconfig.model.settings;
+package pt.raphaelneves.patterns.facade.gameconfig.models.settings;
 
 public class InputSettings implements ISettings {
     private ISettings joystickSettings;

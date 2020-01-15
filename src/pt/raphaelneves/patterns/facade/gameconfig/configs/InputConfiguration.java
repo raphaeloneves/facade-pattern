@@ -1,4 +1,4 @@
-package pt.raphaelneves.patterns.facade.gameconfig.config;
+package pt.raphaelneves.patterns.facade.gameconfig.configs;
 
 import java.util.Properties;
 
